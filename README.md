@@ -1,8 +1,8 @@
 ### Oi! Eu sou a Gabriella Dantas 👋
 
 
-- 👩‍💻 Atualmente estou trabalhando no meu portifólio como desenvolvedora front-end
-- 💡 Estudando JavaScript e TypeScript
+- 👩‍💻 Atualmente estou trabalhando no meu portifólio como desenvolvedora
+- 💡 Estudando JavaScript e C#
 
 <div align="center">
   <a href="https://github.com/gabriellaxdantas">
