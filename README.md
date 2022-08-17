@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Gabriella Dantas 👋
 
 
-- 👩‍💻 Atualmente estou trabalhando no meu portifólio como desenvolvedora
+- 👩‍💻 Atualmente trabalho com o desenvolvimento de e-mails utilizando tecnologias front-end, entre elas: HTML, CSS e JavaScript.
 - 💡 Estudando JavaScript e C#
 
 <div align="center">
