@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 Atualmente trabalho com o desenvolvimento de e-mails utilizando tecnologias front-end, entre elas: HTML, CSS e JavaScript.
-- 💡 Estudando JavaScript e C#
+- 💡 Estudando JavaScript, TypeScript, Angular e C#
 
 
   
