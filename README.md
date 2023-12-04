@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabriellaxdantas/gabriellaxdantas/blob/6b3e87721454f647d77d66dc9cad536d2c4ca97d/Oi!.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabriellaxdantas/gabriellaxdantas/blob/fff1fd51cc1215743fd1eab264c089276cbdeb11/Oi!%20(1).png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Apaixonada por tecnologia e inovação :)</p>&nbsp;
