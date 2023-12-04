@@ -1,8 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabriellaxdantas/gabriellaxdantas/blob/6b3e87721454f647d77d66dc9cad536d2c4ca97d/Oi!.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Apaixonada por tecnologia e inovação :) <br>
-Sempre buscando novos conhecimentos, sou desenvolvedora Front-End e tenho experiência em TypeScript e Angular.</p>&nbsp;
+<p align="center">Apaixonada por tecnologia e inovação :)</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
